@@ -7,3 +7,8 @@ CodeX4J根据数据库自动生成基于Maven的SSM项目，包含SSM框架的�
 默认生成的Controller中，除了首页返回页面，其它都返回JSON数据。  
 所有代码都可以根据实际情况自行修改。  
 CodeX4J希望能为您的工作效率加油！
+
+![jar包](/img/jar.jpg)  
+![运行界面](/img/UI.jpg)  
+![生成的文件](/img/generatedFiles.jpg)  
+![网站首页](/img/index.jpg)  
